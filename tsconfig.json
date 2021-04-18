@@ -1,0 +1,9 @@
+{
+   "compilerOptions": {
+      "strict": true,
+      "esModuleInterop": true,
+      "downlevelIteration": true,
+      "types": ["node"],
+      "lib": ["esnext"]
+   }
+}
