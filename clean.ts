@@ -11,7 +11,7 @@ async function run() {
    const excessAttributes = ['inkscape:export-xdpi', 'inkscape:export-ydpi', 'sodipodi:absref'] as const;
    const attributeOrder = ['id', 'x', 'y', 'width', 'height', 'viewBox'];
 
-   for await (const svg of walk('src', /jp\.svg$/)) {
+   for await (const svg of walk('src', /\.svg$/)) {
       const $ = cheerio.load(await readFile(svg), { xml: true, decodeEntities: false });
 
       // extract styles
