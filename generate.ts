@@ -31,12 +31,12 @@ run(
          scaleMax: option({
             long: 'scale-max',
             type: uint,
-            defaultValue: () => 12,
+            defaultValue: () => 8,
          }),
          scaleStep: option({
             long: 'scale-step',
             type: uint,
-            defaultValue: () => 4,
+            defaultValue: () => 1,
          }),
          filter: restPositionals(),
       },
