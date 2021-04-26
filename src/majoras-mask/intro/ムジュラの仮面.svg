@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg2784" width="120" height="32" viewBox="0 0 120 32.000001" inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)" sodipodi:docname="&#x30E0;&#x30B8;&#x30E5;&#x30E9;&#x306E;&#x4EEE;&#x9762;.svg" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<style id="style2">
+		.xfb8c6c98cf58004e8316f42e6a519604{image-rendering:optimizeSpeed;}
+	</style>
+	<defs id="defs2778">
+		<filter id="filter4134" x="-0.070000000000000007" y="-0.29000000000000009" width="1.1500000000000001" height="1.5000000000000002" inkscape:collect="always" inkscape:label="Drop Shadow" style="color-interpolation-filters:sRGB;">
+			<feGaussianBlur id="feGaussianBlur4136" inkscape:collect="always" result="fbSourceGraphic" stdDeviation="0.42194265"/>
+			<feColorMatrix id="feColorMatrix4210" in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+			<feFlood id="feFlood4212" flood-color="rgb(0,0,0)" flood-opacity="1" in="fbSourceGraphic" result="flood"/>
+			<feComposite id="feComposite4214" in="flood" in2="fbSourceGraphic" operator="in" result="composite1"/>
+			<feGaussianBlur id="feGaussianBlur4216" in="composite1" result="blur" stdDeviation="0.5"/>
+			<feOffset id="feOffset4218" dx="2.77556e-17" dy="2.77556e-17" result="offset"/>
+			<feComposite id="feComposite4220" in="fbSourceGraphic" in2="offset" operator="over" result="composite2"/>
+		</filter>
+		<filter id="filter1101" x="-0.040000000000000001" y="-0.23000000000000007" width="1.1000000000000001" height="1.4800000000000002" inkscape:collect="always" style="color-interpolation-filters:sRGB">
+			<feGaussianBlur id="feGaussianBlur1103" inkscape:collect="always" stdDeviation="0.38271442"/>
+		</filter>
+	</defs>
+	<sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="layer3" inkscape:cx="4.7058313" inkscape:cy="29.754905" inkscape:document-rotation="0" inkscape:document-units="px" inkscape:guide-bbox="true" inkscape:pagecheckerboard="false" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:snap-text-baseline="true" inkscape:window-height="2066" inkscape:window-maximized="1" inkscape:window-width="3840" inkscape:window-x="-11" inkscape:window-y="-11" inkscape:zoom="5.6" pagecolor="#3897d7" showgrid="false" showguides="true" units="px">
+		<sodipodi:guide id="guide3531" inkscape:color="rgb(0,0,255)" inkscape:label="" inkscape:locked="false" orientation="0,1" position="0,16"/>
+		<sodipodi:guide id="guide3537" inkscape:color="rgb(0,0,255)" inkscape:label="" inkscape:locked="false" orientation="0,1" position="0,19"/>
+		<sodipodi:guide id="guide3568" inkscape:color="rgb(0,0,255)" inkscape:label="" inkscape:locked="false" orientation="0,1" position="0,3"/>
+	</sodipodi:namedview>
+	<metadata id="metadata2781">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<g id="layer1" inkscape:groupmode="layer" inkscape:label="dump" style="display:inline;opacity:0">
+		<image id="tex1_120x16_1c1d90ce06348cc5_1" x="0" y="16" width="120" height="16" class="xfb8c6c98cf58004e8316f42e6a519604" preserveAspectRatio="none" xlink:href="%E3%83%A0%E3%82%B8%E3%83%A5%E3%83%A9%E3%81%AE%E4%BB%AE%E9%9D%A2/tex1_120x16_1c1d90ce06348cc5_1.png"/>
+		<image id="tex1_120x16_966d5edf110478ba_1" x="0" y="0" width="120" height="16" class="xfb8c6c98cf58004e8316f42e6a519604" preserveAspectRatio="none" xlink:href="%E3%83%A0%E3%82%B8%E3%83%A5%E3%83%A9%E3%81%AE%E4%BB%AE%E9%9D%A2/tex1_120x16_966d5edf110478ba_1.png"/>
+	</g>
+	<g id="layer3" inkscape:groupmode="layer" inkscape:label="hd" sodipodi:insensitive="true" style="display:inline">
+		<text id="text3535" x="6.9709144" y="-26.882933" transform="scale(1.1331368,0.88250597)" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1201px;line-height:1.25;font-family:'FOT-MatisseV Pro';-inkscape-font-specification:'FOT-MatisseV Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"><tspan id="tspan3533" x="6.9709144" y="-26.882933" dx="0 -3.1800001 -4.3699999 -4.7600002 -1.5 0 0" dy="0 0 0 0 0 -0.36000001" sodipodi:role="line" style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">&#x30E0;&#x30B8;&#x30E5;&#x30E9;&#x306E;&#x4EEE;&#x9762;</tspan></text>
+		<use id="use3564" x="0" y="0" width="100%" height="100%" transform="translate(-4.9768199e-4,36.72435)" xlink:href="#text3535" style="fill:#ffffff"/>
+		<use id="use3566" x="0" y="0" width="100%" height="100%" transform="translate(1.8011666e-8,52.724349)" xlink:href="#text3535" style="mix-blend-mode:normal;fill:#ffffff;stroke:#b3b3b3;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;filter:url(#filter4134)"/>
+		<use id="use4414" x="0" y="0" width="100%" height="100%" transform="translate(1.8011666e-8,52.724349)" xlink:href="#text3535" style="opacity:0.711165;fill:#ffffff;stroke:#ffffff;filter:url(#filter1101)"/>
+	</g>
+</svg>
