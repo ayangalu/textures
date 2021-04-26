@@ -28,6 +28,8 @@ run(
             }
 
             await writeFile(svg, format($.html()));
+
+            console.log(svg);
          }
       },
    }),
