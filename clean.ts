@@ -1,7 +1,5 @@
-import { createHash } from 'crypto';
 import { readFile, writeFile } from 'fs/promises';
 
-import type { Element } from 'domhandler';
 import cheerio from 'cheerio';
 
 import { format } from './format';
@@ -13,36 +11,6 @@ async function run() {
 
    for await (const svg of walk('src', /\.svg$/)) {
       const $ = cheerio.load(await readFile(svg), { xml: true, decodeEntities: false });
-
-      // extract styles
-      const styleMap = new Map<string, Element[]>();
-
-      for (const styled of $('[style]')) {
-         const normalized = styled.attribs['style'].split(';').sort().join(';');
-         const elements = styleMap.get(normalized) ?? [];
-         elements.push(styled);
-         styleMap.set(normalized, elements);
-      }
-
-      for (const [style, elements] of styleMap) {
-         if (elements.length < 2) {
-            continue;
-         }
-
-         const checksum = createHash('md5').update(style, 'utf8').digest('hex');
-         const className = `x${checksum}`;
-
-         if (!$('svg > style').length) {
-            $('svg').prepend('\n  <style>\n  </style>');
-         }
-
-         $('svg > style').append(`  .${className}{${style};}\n  `);
-
-         for (const element of elements) {
-            delete element.attribs['style'];
-            element.attribs['class'] = className;
-         }
-      }
 
       // untranslate
       for (const group of $('g[transform]')) {
