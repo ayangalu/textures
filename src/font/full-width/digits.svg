@@ -36,15 +36,15 @@
 		<image id="tex1_16x16_c6b3478f3a01c758_0" x="48" y="0" width="16" height="16" class="xfb8c6c98cf58004e8316f42e6a519604" preserveAspectRatio="none" xlink:href="digits/tex1_16x16_c6b3478f3a01c758_0.png"/>
 	</g>
 	<g id="layer2" inkscape:groupmode="layer" inkscape:label="new" sodipodi:insensitive="true">
-		<text id="text4337" x="0" y="13.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4339" x="0" y="13.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">&#xFF10;</tspan></text>
-		<text id="text4359" x="16" y="13.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4361" x="16" y="13.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">&#xFF11;</tspan></text>
-		<text id="text4363" x="32" y="13.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4365" x="32" y="13.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">&#xFF12;</tspan></text>
-		<text id="text4367" x="48" y="13.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4369" x="48" y="13.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">&#xFF13;</tspan></text>
-		<text id="text4371" x="64" y="13.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4373" x="64" y="13.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">&#xFF14;</tspan></text>
-		<text id="text4375" x="0" y="29.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4377" x="0" y="29.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">&#xFF15;</tspan></text>
-		<text id="text4379" x="16" y="29.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4381" x="16" y="29.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">&#xFF16;</tspan></text>
-		<text id="text4383" x="32" y="29.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4385" x="32" y="29.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">&#xFF17;</tspan></text>
-		<text id="text4387" x="48" y="29.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4389" x="48" y="29.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">&#xFF18;</tspan></text>
-		<text id="text4391" x="64" y="29.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4393" x="64" y="29.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">&#xFF19;</tspan></text>
+		<text id="text4337" x="0" y="13.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4339" x="0" y="13.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">０</tspan></text>
+		<text id="text4359" x="16" y="13.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4361" x="16" y="13.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">１</tspan></text>
+		<text id="text4363" x="32" y="13.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4365" x="32" y="13.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">２</tspan></text>
+		<text id="text4367" x="48" y="13.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4369" x="48" y="13.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">３</tspan></text>
+		<text id="text4371" x="64" y="13.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4373" x="64" y="13.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">４</tspan></text>
+		<text id="text4375" x="0" y="29.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4377" x="0" y="29.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">５</tspan></text>
+		<text id="text4379" x="16" y="29.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4381" x="16" y="29.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">６</tspan></text>
+		<text id="text4383" x="32" y="29.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4385" x="32" y="29.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">７</tspan></text>
+		<text id="text4387" x="48" y="29.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4389" x="48" y="29.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">８</tspan></text>
+		<text id="text4391" x="64" y="29.5" class="x0602664670cce2db873fb9bc5282cb7b" xml:space="preserve"><tspan id="tspan4393" x="64" y="29.5" class="x7e07f135a956e90e0814e5983a8442a1" sodipodi:role="line">９</tspan></text>
 	</g>
 </svg>
